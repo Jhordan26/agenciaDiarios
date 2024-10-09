@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JHORDAN\\OneDrive\\Documentos\\Agencia Trujillo - Diarios\\agenciaDiarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7928EC6D-0AB8-4B52-B827-030CDCD4D65E}|AGENCIADIARIOS\\capaPresentacion.csproj|c:\\users\\jhordan\\onedrive\\documentos\\agencia trujillo - diarios\\agenciadiarios\\agenciadiarios\\clientesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7928EC6D-0AB8-4B52-B827-030CDCD4D65E}|AGENCIADIARIOS\\capaPresentacion.csproj|solutionrelative:agenciadiarios\\clientesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7928EC6D-0AB8-4B52-B827-030CDCD4D65E}|AGENCIADIARIOS\\capaPresentacion.csproj|c:\\users\\jhordan\\onedrive\\documentos\\agencia trujillo - diarios\\agenciadiarios\\agenciadiarios\\clientesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7928EC6D-0AB8-4B52-B827-030CDCD4D65E}|AGENCIADIARIOS\\capaPresentacion.csproj|solutionrelative:agenciadiarios\\clientesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7928EC6D-0AB8-4B52-B827-030CDCD4D65E}|AGENCIADIARIOS\\capaPresentacion.csproj|c:\\users\\jhordan\\onedrive\\documentos\\agencia trujillo - diarios\\agenciadiarios\\agenciadiarios\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7928EC6D-0AB8-4B52-B827-030CDCD4D65E}|AGENCIADIARIOS\\capaPresentacion.csproj|solutionrelative:agenciadiarios\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE86C35-6F2A-4EBC-9E2A-2197D320B0FC}|capaNegocio\\capaNegocio.csproj|C:\\Users\\JHORDAN\\OneDrive\\Documentos\\Agencia Trujillo - Diarios\\agenciaDiarios\\capanegocio\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE86C35-6F2A-4EBC-9E2A-2197D320B0FC}|capaNegocio\\capaNegocio.csproj|solutionrelative:capanegocio\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE732F60-81C0-47C6-957A-E0CB50B76E77}|capaDatos\\capaDatos.csproj|c:\\users\\jhordan\\onedrive\\documentos\\agencia trujillo - diarios\\agenciadiarios\\capadatos\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE732F60-81C0-47C6-957A-E0CB50B76E77}|capaDatos\\capaDatos.csproj|solutionrelative:capadatos\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7928EC6D-0AB8-4B52-B827-030CDCD4D65E}|AGENCIADIARIOS\\capaPresentacion.csproj|C:\\Users\\JHORDAN\\OneDrive\\Documentos\\Agencia Trujillo - Diarios\\agenciaDiarios\\agenciadiarios\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7928EC6D-0AB8-4B52-B827-030CDCD4D65E}|AGENCIADIARIOS\\capaPresentacion.csproj|solutionrelative:agenciadiarios\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\JHORDAN\\OneDrive\\Documentos\\Agencia Trujillo - Diarios\\agenciaDiarios\\capaDatos\\Clientes.cs",
+              "RelativeDocumentMoniker": "capaDatos\\Clientes.cs",
+              "ToolTip": "C:\\Users\\JHORDAN\\OneDrive\\Documentos\\Agencia Trujillo - Diarios\\agenciaDiarios\\capaDatos\\Clientes.cs",
+              "RelativeToolTip": "capaDatos\\Clientes.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAYwE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:59:01.768Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form.cs",
+              "DocumentMoniker": "C:\\Users\\JHORDAN\\OneDrive\\Documentos\\Agencia Trujillo - Diarios\\agenciaDiarios\\AGENCIADIARIOS\\Form.cs",
+              "RelativeDocumentMoniker": "AGENCIADIARIOS\\Form.cs",
+              "ToolTip": "C:\\Users\\JHORDAN\\OneDrive\\Documentos\\Agencia Trujillo - Diarios\\agenciaDiarios\\AGENCIADIARIOS\\Form.cs",
+              "RelativeToolTip": "AGENCIADIARIOS\\Form.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:02:44.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientesForm.cs",
+              "DocumentMoniker": "C:\\Users\\JHORDAN\\OneDrive\\Documentos\\Agencia Trujillo - Diarios\\agenciaDiarios\\AGENCIADIARIOS\\ClientesForm.cs",
+              "RelativeDocumentMoniker": "AGENCIADIARIOS\\ClientesForm.cs",
+              "ToolTip": "C:\\Users\\JHORDAN\\OneDrive\\Documentos\\Agencia Trujillo - Diarios\\agenciaDiarios\\AGENCIADIARIOS\\ClientesForm.cs",
+              "RelativeToolTip": "AGENCIADIARIOS\\ClientesForm.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAlwHcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:28:44.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JHORDAN\\OneDrive\\Documentos\\Agencia Trujillo - Diarios\\agenciaDiarios\\AGENCIADIARIOS\\ClientesForm.cs",
+              "RelativeDocumentMoniker": "AGENCIADIARIOS\\ClientesForm.cs",
+              "ToolTip": "C:\\Users\\JHORDAN\\OneDrive\\Documentos\\Agencia Trujillo - Diarios\\agenciaDiarios\\AGENCIADIARIOS\\ClientesForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AGENCIADIARIOS\\ClientesForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:43:33.312Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\JHORDAN\\OneDrive\\Documentos\\Agencia Trujillo - Diarios\\agenciaDiarios\\capaNegocio\\ClienteNegocio.cs",
+              "RelativeDocumentMoniker": "capaNegocio\\ClienteNegocio.cs",
+              "ToolTip": "C:\\Users\\JHORDAN\\OneDrive\\Documentos\\Agencia Trujillo - Diarios\\agenciaDiarios\\capaNegocio\\ClienteNegocio.cs",
+              "RelativeToolTip": "capaNegocio\\ClienteNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:50:36.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JHORDAN\\OneDrive\\Documentos\\Agencia Trujillo - Diarios\\agenciaDiarios\\AGENCIADIARIOS\\MenuForm.cs",
+              "RelativeDocumentMoniker": "AGENCIADIARIOS\\MenuForm.cs",
+              "ToolTip": "C:\\Users\\JHORDAN\\OneDrive\\Documentos\\Agencia Trujillo - Diarios\\agenciaDiarios\\AGENCIADIARIOS\\MenuForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AGENCIADIARIOS\\MenuForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:10:07.981Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

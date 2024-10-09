@@ -1,0 +1,6 @@
+C:\Users\JHORDAN\OneDrive\Documentos\Agencia Trujillo - Diarios\agenciaDiarios\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\JHORDAN\OneDrive\Documentos\Agencia Trujillo - Diarios\agenciaDiarios\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\JHORDAN\OneDrive\Documentos\Agencia Trujillo - Diarios\agenciaDiarios\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Users\JHORDAN\OneDrive\Documentos\Agencia Trujillo - Diarios\agenciaDiarios\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\JHORDAN\OneDrive\Documentos\Agencia Trujillo - Diarios\agenciaDiarios\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\JHORDAN\OneDrive\Documentos\Agencia Trujillo - Diarios\agenciaDiarios\capaDatos\obj\Debug\capaDatos.pdb
